@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="ProjetoLP_AED"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/pacm1/CLionProjects/ProjetoLP_AED/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/pacm1/CLionProjects/ProjetoLP_AED/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/pacm1/CLionProjects/ProjetoLP_AED/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/pacm1/CLionProjects/ProjetoLP_AED/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/pacm1/CLionProjects/ProjetoLP_AED/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ProjetoLP_AED">
+				<Option output="C:/Users/pacm1/CLionProjects/ProjetoLP_AED/cmake-build-debug/ProjetoLP_AED.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/pacm1/CLionProjects/ProjetoLP_AED/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/pacm1/CLionProjects/ProjetoLP_AED/cmake-build-debug/Makefile&quot;  VERBOSE=1 ProjetoLP_AED"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/pacm1/CLionProjects/ProjetoLP_AED/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/pacm1/CLionProjects/ProjetoLP_AED/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/pacm1/CLionProjects/ProjetoLP_AED/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ProjetoLP_AED/fast">
+				<Option output="C:/Users/pacm1/CLionProjects/ProjetoLP_AED/cmake-build-debug/ProjetoLP_AED.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/pacm1/CLionProjects/ProjetoLP_AED/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/pacm1/CLionProjects/ProjetoLP_AED/cmake-build-debug/Makefile&quot;  VERBOSE=1 ProjetoLP_AED/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/pacm1/CLionProjects/ProjetoLP_AED/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/pacm1/CLionProjects/ProjetoLP_AED/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/pacm1/CLionProjects/ProjetoLP_AED/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/pacm1/CLionProjects/ProjetoLP_AED/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/pacm1/CLionProjects/ProjetoLP_AED/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/pacm1/CLionProjects/ProjetoLP_AED/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/pacm1/CLionProjects/ProjetoLP_AED/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/pacm1/CLionProjects/ProjetoLP_AED/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/pacm1/CLionProjects/ProjetoLP_AED/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/pacm1/CLionProjects/ProjetoLP_AED/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/pacm1/CLionProjects/ProjetoLP_AED/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/pacm1/CLionProjects/ProjetoLP_AED/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/pacm1/CLionProjects/ProjetoLP_AED/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/pacm1/CLionProjects/ProjetoLP_AED/Fase1/fase1.c">
+			<Option target="ProjetoLP_AED"/>
+		</Unit>
+		<Unit filename="C:/Users/pacm1/CLionProjects/ProjetoLP_AED/Fase1/fase1.h">
+			<Option target="ProjetoLP_AED"/>
+		</Unit>
+		<Unit filename="C:/Users/pacm1/CLionProjects/ProjetoLP_AED/Fase2/fase2.c">
+			<Option target="ProjetoLP_AED"/>
+		</Unit>
+		<Unit filename="C:/Users/pacm1/CLionProjects/ProjetoLP_AED/Fase2/fase2.h">
+			<Option target="ProjetoLP_AED"/>
+		</Unit>
+		<Unit filename="C:/Users/pacm1/CLionProjects/ProjetoLP_AED/data/Jogo.txt">
+			<Option target="ProjetoLP_AED"/>
+		</Unit>
+		<Unit filename="C:/Users/pacm1/CLionProjects/ProjetoLP_AED/data/JogoBin.txt">
+			<Option target="ProjetoLP_AED"/>
+		</Unit>
+		<Unit filename="C:/Users/pacm1/CLionProjects/ProjetoLP_AED/data/matriz.txt">
+			<Option target="ProjetoLP_AED"/>
+		</Unit>
+		<Unit filename="C:/Users/pacm1/CLionProjects/ProjetoLP_AED/data/palavras.txt">
+			<Option target="ProjetoLP_AED"/>
+		</Unit>
+		<Unit filename="C:/Users/pacm1/CLionProjects/ProjetoLP_AED/libs_src/lib_stats.c">
+			<Option target="ProjetoLP_AED"/>
+		</Unit>
+		<Unit filename="C:/Users/pacm1/CLionProjects/ProjetoLP_AED/libs_src/lib_stats.h">
+			<Option target="ProjetoLP_AED"/>
+		</Unit>
+		<Unit filename="C:/Users/pacm1/CLionProjects/ProjetoLP_AED/libs_src/lib_util.c">
+			<Option target="ProjetoLP_AED"/>
+		</Unit>
+		<Unit filename="C:/Users/pacm1/CLionProjects/ProjetoLP_AED/libs_src/lib_util.h">
+			<Option target="ProjetoLP_AED"/>
+		</Unit>
+		<Unit filename="C:/Users/pacm1/CLionProjects/ProjetoLP_AED/libs_src/strings/stringsorting.c">
+			<Option target="ProjetoLP_AED"/>
+		</Unit>
+		<Unit filename="C:/Users/pacm1/CLionProjects/ProjetoLP_AED/libs_src/strings/stringsorting.h">
+			<Option target="ProjetoLP_AED"/>
+		</Unit>
+		<Unit filename="C:/Users/pacm1/CLionProjects/ProjetoLP_AED/libs_src/union_find/lib_stats.c">
+			<Option target="ProjetoLP_AED"/>
+		</Unit>
+		<Unit filename="C:/Users/pacm1/CLionProjects/ProjetoLP_AED/libs_src/union_find/quickunion.c">
+			<Option target="ProjetoLP_AED"/>
+		</Unit>
+		<Unit filename="C:/Users/pacm1/CLionProjects/ProjetoLP_AED/libs_src/union_find/quickunion.h">
+			<Option target="ProjetoLP_AED"/>
+		</Unit>
+		<Unit filename="C:/Users/pacm1/CLionProjects/ProjetoLP_AED/main.c">
+			<Option target="ProjetoLP_AED"/>
+		</Unit>
+		<Unit filename="C:/Users/pacm1/CLionProjects/ProjetoLP_AED/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,532 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true" buildAllGenerated="true">
+    <generated>
+      <config projectName="ProjetoLP_AED" targetName="ProjetoLP_AED" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b257d6d9-6c2f-47b7-a5a8-8b307af4ecc5" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ExportToHTMLSettings">
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/../ProjetoLP_AED\exportToHTML" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-274762678">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="81" />
+          <entry key="project.open.time.0" value="18" />
+          <entry key="project.open.time.1" value="17" />
+          <entry key="project.open.time.10" value="14" />
+          <entry key="project.open.time.11" value="11" />
+          <entry key="project.open.time.12" value="2" />
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.14" value="3" />
+          <entry key="project.open.time.15" value="3" />
+          <entry key="project.open.time.16" value="2" />
+          <entry key="project.open.time.17" value="2" />
+          <entry key="project.open.time.21" value="1" />
+          <entry key="project.open.time.22" value="1" />
+          <entry key="project.open.time.8" value="2" />
+          <entry key="project.open.time.9" value="4" />
+          <entry key="project.opened" value="81" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="c" value="25877" />
+          <entry key="h" value="855" />
+          <entry key="txt" value="71" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CMakeLists.txt" value="71" />
+          <entry key="Doxygen file" value="123" />
+          <entry key="ObjectiveC" value="26609" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="Makefile2" value="1" />
+          <entry key="ProjetoLP_AED (disassembly)" value="5" />
+          <entry key="c" value="20" />
+          <entry key="h" value="14" />
+          <entry key="txt" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Disassembly" value="5" />
+          <entry key="ObjectiveC" value="34" />
+          <entry key="PLAIN_TEXT" value="3" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="505812846">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="c" value="6" />
+          <entry key="h" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="ObjectiveC" value="11" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="c" value="13" />
+          <entry key="h" value="24" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="ObjectiveC" value="37" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" column="102" selection-start-line="16" selection-start-column="102" selection-end-line="16" selection-end-column="102" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main.c">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+              <folding>
+                <element signature="e#0#24#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Fase2/fase2.c">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="28" selection-start-line="1" selection-start-column="28" selection-end-line="1" selection-end-column="28" />
+              <folding>
+                <element signature="e#46#64#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Fase2/fase2.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="28" selection-start-line="1" selection-start-column="28" selection-end-line="1" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>read</find>
+      <find>*(carater)++;</find>
+      <find>(*carater)++;</find>
+      <find>(carater)++;</find>
+      <find>posy</find>
+      <find>PRINT_ARR</find>
+      <find>check_consistency</find>
+      <find>Fora da matriz</find>
+      <find>printf(&quot;e null\n&quot;);</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>(*carater)++;</replace>
+      <replace>(carater)++;</replace>
+      <replace>//(*carater)++;</replace>
+      <replace>k</replace>
+      <replace>check_consistency2</replace>
+      <replace>Fora da matriz\n</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/libs_src/threesum/ThreeSum.h" />
+        <option value="$PROJECT_DIR$/libs_src/threesum/clientThreeSum.c" />
+        <option value="$PROJECT_DIR$/libs_src/lib_util.c" />
+        <option value="$PROJECT_DIR$/libs_src/strings/stringsorting.h" />
+        <option value="$PROJECT_DIR$/libs_src/strings/stringsorting.c" />
+        <option value="$PROJECT_DIR$/main.c" />
+        <option value="$PROJECT_DIR$/libs_src/sort_list/mergeSortLinkedLists.h" />
+        <option value="$PROJECT_DIR$/libs_src/sort_list/mergeSortLinkedLists.c" />
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/Fase1/fase1.c" />
+        <option value="$PROJECT_DIR$/Fase1/fase1.h" />
+        <option value="$PROJECT_DIR$/Fase2/fase2.c" />
+        <option value="$PROJECT_DIR$/Fase2/fase2.h" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="42" />
+    <option name="width" value="1890" />
+    <option name="height" value="930" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ProjetoLP_AED" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProjetoLP_AED" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProjetoLP_AED" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProjetoLP_AED" type="462c0819:PsiDirectoryNode" />
+              <item name="Fase1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProjetoLP_AED" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProjetoLP_AED" type="462c0819:PsiDirectoryNode" />
+              <item name="Fase2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProjetoLP_AED" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProjetoLP_AED" type="462c0819:PsiDirectoryNode" />
+              <item name="libs_src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="debug&#9;ACTION&#9;ActivateDebugToolWindow" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="debugger.stepping" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.ProjetoLP_AED">
+    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" EXPLICIT_BUILD_TARGET_NAME="all">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProjetoLP_AED" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ProjetoLP_AED" TARGET_NAME="ProjetoLP_AED" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ProjetoLP_AED" RUN_TARGET_NAME="ProjetoLP_AED">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Build All" />
+      <item itemvalue="Application.ProjetoLP_AED" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b257d6d9-6c2f-47b7-a5a8-8b307af4ecc5" name="Default Changelist" comment="" />
+      <created>1540813804363</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1540813804363</updated>
+      <workItem from="1540813806042" duration="3586000" />
+      <workItem from="1540821072326" duration="3923000" />
+      <workItem from="1540825061613" duration="6972000" />
+      <workItem from="1540832123426" duration="461000" />
+      <workItem from="1540833074817" duration="3309000" />
+      <workItem from="1540895533270" duration="1054000" />
+      <workItem from="1540896904453" duration="1981000" />
+      <workItem from="1540898965481" duration="83000" />
+      <workItem from="1540914883840" duration="262000" />
+      <workItem from="1540922261176" duration="3589000" />
+      <workItem from="1540938115296" duration="1099000" />
+      <workItem from="1540986716450" duration="1803000" />
+      <workItem from="1541002651825" duration="884000" />
+      <workItem from="1541152134758" duration="6000" />
+      <workItem from="1541676279291" duration="8000" />
+      <workItem from="1542280244071" duration="183000" />
+      <workItem from="1542280549058" duration="209000" />
+      <workItem from="1542284085532" duration="1379000" />
+      <workItem from="1542285569913" duration="142000" />
+      <workItem from="1542296996420" duration="4708000" />
+      <workItem from="1542308624860" duration="2266000" />
+      <workItem from="1542310924942" duration="5000" />
+      <workItem from="1542312135153" duration="5650000" />
+      <workItem from="1542361229651" duration="676000" />
+      <workItem from="1542370951638" duration="288000" />
+      <workItem from="1542388183257" duration="2719000" />
+      <workItem from="1542394658731" duration="61000" />
+      <workItem from="1542466465258" duration="9278000" />
+      <workItem from="1542575950647" duration="3253000" />
+      <workItem from="1542622278238" duration="7206000" />
+      <workItem from="1542637973510" duration="1549000" />
+      <workItem from="1542641898003" duration="10000" />
+      <workItem from="1542726129505" duration="390000" />
+      <workItem from="1542884355782" duration="82000" />
+      <workItem from="1542889903027" duration="126000" />
+      <workItem from="1542989641489" duration="963000" />
+      <workItem from="1543232354857" duration="1901000" />
+      <workItem from="1543424007768" duration="4655000" />
+      <workItem from="1543446826757" duration="3017000" />
+      <workItem from="1543449906104" duration="1772000" />
+      <workItem from="1543451789017" duration="31000" />
+      <workItem from="1543489315996" duration="71000" />
+      <workItem from="1543495406611" duration="640000" />
+      <workItem from="1543533618890" duration="5023000" />
+      <workItem from="1543571033102" duration="206000" />
+      <workItem from="1543571550240" duration="1659000" />
+      <workItem from="1543600525644" duration="3223000" />
+      <workItem from="1543603832649" duration="42000" />
+      <workItem from="1543658625984" duration="2421000" />
+      <workItem from="1543661084806" duration="6848000" />
+      <workItem from="1543753188537" duration="2013000" />
+      <workItem from="1543851535935" duration="631000" />
+      <workItem from="1544030416656" duration="1491000" />
+      <workItem from="1544094530140" duration="8000" />
+      <workItem from="1544102525407" duration="1285000" />
+      <workItem from="1544176171499" duration="68000" />
+      <workItem from="1544263264051" duration="9496000" />
+      <workItem from="1544699104119" duration="380000" />
+      <workItem from="1544802001198" duration="5581000" />
+      <workItem from="1544868655952" duration="9287000" />
+      <workItem from="1545303994757" duration="526000" />
+      <workItem from="1545305293390" duration="918000" />
+      <workItem from="1545307813744" duration="368000" />
+      <workItem from="1545308543128" duration="494000" />
+      <workItem from="1545384559716" duration="6376000" />
+      <workItem from="1545406764078" duration="1763000" />
+      <workItem from="1545414061531" duration="10020000" />
+      <workItem from="1545426232032" duration="857000" />
+      <workItem from="1545931109178" duration="8057000" />
+      <workItem from="1546009742311" duration="5251000" />
+      <workItem from="1546015233182" duration="32000" />
+      <workItem from="1546021022223" duration="731000" />
+      <workItem from="1546259209615" duration="3514000" />
+      <workItem from="1546269968768" duration="53000" />
+      <workItem from="1546449968636" duration="2660000" />
+      <workItem from="1546452689614" duration="42000" />
+      <workItem from="1546452881240" duration="425000" />
+      <workItem from="1546525279085" duration="670000" />
+      <workItem from="1546535483814" duration="5195000" />
+      <workItem from="1546616163622" duration="2088000" />
+      <workItem from="1546619262690" duration="529000" />
+      <workItem from="1546716976901" duration="541000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="183022000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17975709" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.46263346" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39679715" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3291815" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.46263346" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3291815" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="CMake" order="12" weight="0.3291815" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" weight="0.32955465" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-34">
+          <caret line="70" column="38" selection-start-line="70" selection-start-column="9" selection-end-line="70" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/palavras.txt" />
+    <entry file="file://$PROJECT_DIR$/libs_src/threesum/ThreeSum.h" />
+    <entry file="file://C:/MinGW/include/string.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="82" selection-start-line="82" selection-end-line="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libs_src/threesum/clientThreeSum.h" />
+    <entry file="file://$PROJECT_DIR$/libs_src/threesum/clientThreeSum.c" />
+    <entry file="file://$PROJECT_DIR$/libs_src/strings/stringsorting.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="73" column="72" lean-forward="true" selection-start-line="73" selection-start-column="72" selection-end-line="73" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libs_src/strings/stringsorting.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="2" selection-start-line="31" selection-start-column="2" selection-end-line="31" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libs_src/sort_list/mergeSortLinkedList.h" />
+    <entry file="file://$PROJECT_DIR$/libs_src/sort_list/mergeSortLinkedLists.h" />
+    <entry file="file://$PROJECT_DIR$/libs_src/sort_list/mergeSortLinkedLists.c" />
+    <entry file="file://$PROJECT_DIR$/libs_src/sort_list/mergeSortLinkedList.c" />
+    <entry file="file://$PROJECT_DIR$/libs_src/lib_stats.c">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libs_src/lib_stats.h">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libs_src/lib_util.h">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="102" selection-start-line="16" selection-start-column="102" selection-end-line="16" selection-end-column="102" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libs_src/lib_util.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#24#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fase1/fase1.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fase1/fase1.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="14" column="46" lean-forward="true" selection-start-line="14" selection-start-column="46" selection-end-line="14" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fase2/fase2.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="28" selection-start-line="1" selection-start-column="28" selection-end-line="1" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fase2/fase2.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="28" selection-start-line="1" selection-start-column="28" selection-end-line="1" selection-end-column="28" />
+          <folding>
+            <element signature="e#46#64#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
